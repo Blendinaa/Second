@@ -1,0 +1,77 @@
+#logo{
+	width: 30%;
+} 
+ul li{
+	list-style: none;
+	display: inline-block;
+	color: black;
+	padding-right: 10px; 
+}
+
+a{
+	text-decoration: none;
+}
+.menu{
+	width: 40%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.header{
+	display: flex;
+	justify-content: space-around;
+}
+.content{
+	display: flex;
+	margin-top: 40px;
+}
+.icon{
+	color: orange;
+	width: 25%;
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 30px;
+}
+.text{
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+h1{
+	margin: 0;
+}
+.forma{
+	
+	justify-content: center;
+	text-align: center;
+	flex-direction: column;
+	width: 40%;
+}
+.form{
+	display: flex;
+	justify-content: center;
+}
+#section{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5%;
+}
+.video{
+	margin-left: 30%;
+}
+.table{
+
+	list-style: none;
+	text-align: center;
+	margin: 5%;
+	width: 25%;
+	border: 1px solid black;
+	flex-direction: row;
+}
+#Pricing{
+	display: flex;
+}
+.footer{
+	background-color: lightgray;
+	margin-left: 70%;
+}
